@@ -1,0 +1,13 @@
+{
+  "name": "prediction-market-fees",
+  "version": "1.0.0",
+  "description": "Trading fees on Kalshi, Polymarket and Polymarket US, with tests checked against real order tickets.",
+  "type": "module",
+  "main": "fees.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": ["kalshi", "polymarket", "prediction-markets", "fees", "sports-betting"],
+  "author": "ThinBlimp",
+  "license": "MIT"
+}
